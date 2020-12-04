@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2020-11-19 08:49:59
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'PROXY 127.0.0.1:3128';
 var rules = [
     [
         [],
@@ -51,6 +51,7 @@ var rules = [
             "nmp.gov.tw",
             "nmvttc.gov.tw",
             "northguan-nsa.gov.tw",
+            "noxinfluencer.com",
             "npm.gov.tw",
             "nstm.gov.tw",
             "ntdmh.gov.tw",
@@ -1879,6 +1880,7 @@ var rules = [
             "gizlen.net",
             "gjczz.com",
             "glass8.eu",
+            "global.ssl.fastly.net",
             "globaljihad.net",
             "globalmediaoutreach.com",
             "globalmuseumoncommunism.org",
