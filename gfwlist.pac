@@ -1,9 +1,9 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-21 00:11:38
+ * GFWList Last-Modified: 2020-11-19 08:49:59
  */
 
-var proxy = 'PROXY 127.0.0.1:3128';
+var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
     [
         [],
@@ -51,7 +51,6 @@ var rules = [
             "nmp.gov.tw",
             "nmvttc.gov.tw",
             "northguan-nsa.gov.tw",
-            "noxinfluencer.com",
             "npm.gov.tw",
             "nstm.gov.tw",
             "ntdmh.gov.tw",
@@ -386,7 +385,7 @@ var rules = [
             "apiary.io",
             "apigee.com",
             "apk-dl.com",
-            "apkdler.com",
+            "apkcombo.com",
             "apkmirror.com",
             "apkmonk.com",
             "apkplz.com",
@@ -1880,7 +1879,6 @@ var rules = [
             "gizlen.net",
             "gjczz.com",
             "glass8.eu",
-            "global.ssl.fastly.net",
             "globaljihad.net",
             "globalmediaoutreach.com",
             "globalmuseumoncommunism.org",
@@ -3553,7 +3551,6 @@ var rules = [
             "onapp.com",
             "onedumb.com",
             "onejav.com",
-            "onfido.com",
             "onion.city",
             "onlinecha.com",
             "onlineyoutube.com",
@@ -3644,6 +3641,7 @@ var rules = [
             "paradisehill.cc",
             "paradisepoker.com",
             "parkansky.com",
+            "parler.com",
             "parsevideo.com",
             "partycasino.com",
             "partypoker.com",
