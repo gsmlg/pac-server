@@ -7,6 +7,7 @@ build: generate
 	@CGO_ENABLE=0 go build -o pac-server ./...
 
 generate:
+	@patch gfwlist.pac patch
 	@go-bindata gfwlist.pac
 
 
