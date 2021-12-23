@@ -10,4 +10,6 @@ generate:
 	@patch gfwlist.pac patch
 	@go-bindata gfwlist.pac
 
+unbound:
+	@python3 gfwlist2unbound.py
 
